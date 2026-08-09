@@ -1,12 +1,12 @@
 // Array containing local or external streams
 // Expanded track registry
 const tracksData = [
-    { id: 0, title: "Midnight Echoes", artist: "Astraea", src: "song1.mp3", art: "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=300&q=80", favorite: false },
-    { id: 1, title: "Solar Wind", artist: "Helix Nebula", src: "song2.mp3", art: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=300&q=80", favorite: true },
-    { id: 2, title: "Nebula Drift", artist: "Stardust Echo", src: "song3.mp3", art: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&q=80", favorite: false },
-    { id: 3, title: "Cosmic Resonance", artist: "Pulse Nova", src: "song4.mp3", art: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=300&q=80", favorite: false },
-    { id: 4, title: "Event Horizon", artist: "Void Walker", src: "song5.mp3", art: "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?w=300&q=80", favorite: true },
-    { id: 5, title: "Interstellar", artist: "Quasar", src: "song6.mp3", art: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=300&q=80", favorite: false }
+    { id: 0, title: "Midnight Echoes", artist: "Astraea", src: "music/song1.mp3", art: "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=300&q=80", favorite: false },
+    { id: 1, title: "Solar Wind", artist: "Helix Nebula", src: "music/song2.mp3", art: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=300&q=80", favorite: true },
+    { id: 2, title: "Nebula Drift", artist: "Stardust Echo", src: "music/song3.mp3", art: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&q=80", favorite: false },
+    { id: 3, title: "Cosmic Resonance", artist: "Pulse Nova", src: "music/song4.mp3", art: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=300&q=80", favorite: false },
+    { id: 4, title: "Event Horizon", artist: "Void Walker", src: "music/song5.mp3", art: "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?w=300&q=80", favorite: true },
+    { id: 5, title: "Interstellar", artist: "Quasar", src: "music/song6.mp3", art: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=300&q=80", favorite: false }
 ];
 
 
